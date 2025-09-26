@@ -6,7 +6,7 @@ const int PIN_PWMA = 5;   // PWM motor
 const int PIN_AIN1 = 7;   
 const int PIN_AIN2 = 8;   
 
-int velocidad = 100;  // 0–255
+int velocidad = 160;  // 0–255
 
 // ====== Servo dirección ======
 Servo direccion;
